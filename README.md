@@ -4,9 +4,9 @@
 - 👋 Hi, I’m @ShivamPathak99
 - 👀 I’m interested in ❤️
 -**👏OpenSource**
--**💻Machine Learning(Tensorflow, Keras)
+-**💻Machine Learning(PyTorch,Tensorflow,Keras)
+-**💻Deep Learning
 -**📱Android Development**
--**🕸️Web Development**
 - 🌱 I’m currently learning OpenSource
 - 💞️ I’m looking to collaborate on Opensource
 * **📫 You can reach me through 🔗**
