@@ -3,12 +3,13 @@
 
 - 👋 Hi, I’m @ShivamPathak99
 - 👀 I’m interested in ❤️
--**👏OpenSource**
--**💻Machine Learning(PyTorch,Tensorflow,Keras)
--**💻Deep Learning
--**📱Android Development**
-- 🌱 I’m currently learning OpenSource
-- 💞️ I’m looking to collaborate on Opensource
+  
+ >- **👏OpenSource**
+ >- **💻Machine Learning(PyTorch,Tensorflow,Keras)**
+ >- **💻Deep Learning**
+ >- **Interested in Solving Real Life Problems**
+
+- 💞️ I’m looking for any kind of opportunity in Machine Learning.
 * **📫 You can reach me through 🔗**
  - [Email 📧](shivam9953pathak@gmail.com)
  - [LinkedIn](https://www.linkedin.com/in/shivampathak-/)
